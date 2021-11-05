@@ -1,0 +1,67 @@
+[
+  {
+    "rating" : 5,
+    "id" : 1000,
+    "price" : 829,
+    "name" : "Apple iPhone 13 (128GB, Blue) [Locked] + Carrier Subscription",
+    "cover" : "71xb2xkN5qL._AC_UL640_QL65_.jpg",
+    "images" : [
+      "71xb2xkN5qL.jpg",
+      "61d8XHJuE2L.jpg",
+      "81junVbiuyL.jpg",
+      "61wIVtrz54L.jpg"
+    ]
+  },
+  {
+    "rating" : 4,
+    "id" : 1001,
+    "price" : 829,
+    "name" : "Apple iPhone 13 (128GB, Midnight) [Locked] + Carrier Subscription",
+    "cover" : "61VuVU94RnL._AC_UL640_QL65_.jpg",
+    "images" : [
+      "61VuVU94RnL.jpg",
+      "61qD-qiTKEL.jpg",
+      "71SfvBP1gBL.jpg",
+      "61YfilUZTUL.jpg"
+    ]
+  },
+  {
+    "rating" : 3,
+    "id" : 1002,
+    "price" : 829,
+    "name" : "Apple iPhone 13 (128GB, Pink) [Locked] + Carrier Subscription",
+    "cover" : "61l9ppRIiqL._AC_UL640_QL65_.jpg",
+    "images" : [
+      "61l9ppRIiqL.jpg",
+      "61ecgBYOAJL.jpg",
+      "71uNkgYrWcL.jpg",
+      "61paF2JiudL.jpg"
+    ]
+  },
+  {
+    "rating" : 2,
+    "id" : 1003,
+    "price" : 829,
+    "name" : "Apple iPhone 13 (128GB, (Product) RED) [Locked] + Carrier Subscription",
+    "cover" : "71gm8v4uPBL._AC_UL640_QL65_.jpg",
+    "images" : [
+      "71gm8v4uPBL.jpg",
+      "61ru6vB4NHL.jpg",
+      "71Uqzn6rqJL.jpg",
+      "614hWvi65iL.jpg"
+    ]
+  },
+  {
+    "rating" : 4,
+    "id" : 1004,
+    "price" : 829,
+    "name" : "Apple iPhone 13 (128GB, Starlight) [Locked] + Carrier Subscription",
+    "cover" : "71GLMJ7TQiL._AC_UL640_QL65_.jpg",
+    "images" : [
+      "71GLMJ7TQiL.jpg",
+      "61URMULPwYL.jpg",
+      "71OxEU5mSCL.jpg",
+      "61BvZ6EbUvL.jpg"
+    ]
+  }
+]
